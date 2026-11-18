@@ -1,2 +1,2 @@
-# Thesis
-Master’s thesis, NOVA IMS: aspect-level sentiment in movie reviews and box-office performance.
+# Thesis: Sentiment, Reception and Box-Office Performance in Movie Reviews
+Master’s thesis in Data Science and Advanced Analytics (Business Analytics) at NOVA IMS. Analysis of aspect-level sentiment in critic and audience movie reviews and its relationship with box-office performance. Non-commercial academic research. This product uses the TMDB API but is not endorsed or certified by TMDB.
